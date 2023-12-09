@@ -1,5 +1,5 @@
 # Projet-Gestion-d-un-agenda
-Cette partie du projet aborde la complexité de la recherche dans une liste à niveaux. 
+La partie 2 du projet aborde la complexité de la recherche dans une liste à niveaux. 
 Cette approche permet d'accélérer les recherches en se rapprochant de la complexité de la recherche par dichotomie.
 La construction de la liste à niveaux suit un schéma où chaque niveau pointe sur une cellule sur deux du niveau précédent. 
 Ainsi, la liste stocke 2^n-1 cellules avec des valeurs de 1 à 2^n-1. 
